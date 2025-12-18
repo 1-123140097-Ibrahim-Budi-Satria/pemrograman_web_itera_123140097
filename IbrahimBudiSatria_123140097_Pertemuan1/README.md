@@ -10,3 +10,5 @@ Aplikasi ini merupakan aplikasi web sederhana yang digunakan untuk membantu maha
 - Melakukan pencarian dan filtering tugas berdasarkan mata kuliah dan status tugas
 
 Semua data tugas disimpan menggunakan localStorage. Penggunaan localStorage bertujuan agar data tetap tersimpan walaupun halaman web direfresh atau browser ditutup.
+
+Link uji coba : https://1-123140097-ibrahim-budi-satria.github.io/pemrograman_web_itera_123140097/IbrahimBudiSatria_123140097_Pertemuan1/
